@@ -3,7 +3,6 @@
 
 <p align="center">
   🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun (Graduating 2027) <br/>
-  💻 Preparing for SDE roles at product-based companies <br/>
   🌱 Currently deep in DSA, OOP, and Cloud fundamentals
 </p>
 
