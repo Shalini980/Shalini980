@@ -40,14 +40,6 @@
 
 ---
 
-### 🎯 Target Roles
-
-`Software Development Engineer` &nbsp;•&nbsp; `Product-Based Companies` &nbsp;•&nbsp; `12–15 LPA`
-
-Companies I'm actively preparing for: **Flipkart · ZScaler · Deutsche Bank · Salesforce · PayPal**
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description |
