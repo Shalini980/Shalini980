@@ -25,9 +25,18 @@
 ---
 
 ### 🛠️ Languages & Tools
+*(click an icon to open its GeeksforGeeks reference page)*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,aws,git,vscode" />
+  <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.geeksforgeeks.org/python-programming-language/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.geeksforgeeks.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://www.geeksforgeeks.org/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.geeksforgeeks.org/react/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://www.geeksforgeeks.org/git/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://aws.amazon.com/what-is-aws/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </p>
 
 ---
@@ -47,23 +56,6 @@ Companies I'm actively preparing for: **Flipkart · ZScaler · Deutsche Bank · 
 | 🛡️ **Proctor Shield** | Plagiarism detection system using KMP + Rabin-Karp algorithms, built in C++ with OpenCV |
 | 🔍 **Cyber-Attack-Analyzer** | Web vulnerability scanner using Nmap & OWASP standards |
 | 🖥️ **MiniOS** | Custom operating system with bootloader, built in C and x86 Assembly |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shalini980&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalini980&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/ShaliniChauhan12?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://geeks-for-geeks-stats-card.vercel.app/?username=shalinichfxh5" />
-</p>
 
 ---
 
