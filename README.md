@@ -44,7 +44,7 @@
 
 | Project | Description |
 |---|---|
-| 🛡️ **Proctor Shield** | Plagiarism detection system using KMP + Rabin-Karp algorithms, built in C++ with OpenCV |
+| 🛡️ **Proctor Shield** | DSA-Project Plagiarism detection system using KMP + Rabin-Karp algorithms, built in C++ with OpenCV |
 | 🔍 **Cyber-Attack-Analyzer** | Web vulnerability scanner using Nmap & OWASP standards |
 | 🖥️ **MiniOS** | Custom operating system with bootloader, built in C and x86 Assembly |
 
