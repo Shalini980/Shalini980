@@ -24,7 +24,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-*(click an icon to open its GeeksforGeeks reference page)*
 
 <p align="left">
   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
