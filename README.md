@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun (Graduating 2027) <br/>
-  🌱 Currently deep in DSA, OOP, and Cloud fundamentals
+  🌱 Currently strengthening my DSA, OOP, and Cloud fundamentals
 </p>
 
 <p align="center">
